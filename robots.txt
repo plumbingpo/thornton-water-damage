@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thorntonrestoration.com/sitemap.xml
